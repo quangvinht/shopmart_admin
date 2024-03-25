@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1049799905726",
+    "project_id": "shopping-flutter-project",
+    "storage_bucket": "shopping-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049799905726:android:821949b8fe7fc5ce67e9ef",
+        "android_client_info": {
+          "package_name": "com.example.shop_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049799905726-7om8t01jbrj3gtci3mgoh1n6faccgglt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_mart",
+            "certificate_hash": "18f31403dcd8257a07a58521f8df94550000b416"
+          }
+        },
+        {
+          "client_id": "1049799905726-l0l1g7kvkb9ve0iadkcibcialslsipud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9s-0Ox18Yq03I0iUggiRUVulPv6yzKqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049799905726-l0l1g7kvkb9ve0iadkcibcialslsipud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049799905726-d64r0pr0269fj4pqqnqars6217peopo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopMart.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049799905726:android:f351d0f883dd450f67e9ef",
+        "android_client_info": {
+          "package_name": "com.example.shopmart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049799905726-l0l1g7kvkb9ve0iadkcibcialslsipud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9s-0Ox18Yq03I0iUggiRUVulPv6yzKqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049799905726-l0l1g7kvkb9ve0iadkcibcialslsipud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049799905726-d64r0pr0269fj4pqqnqars6217peopo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopMart.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
